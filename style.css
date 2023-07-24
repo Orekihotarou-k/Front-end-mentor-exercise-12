@@ -75,6 +75,8 @@ main{
     background: var(--clr-primary-cyan);
     padding: 2.5rem;
     color: var(--clr-neutral-light-gray);
+    border-bottom-left-radius: 4px;
+
 
 }
 
@@ -129,6 +131,8 @@ main{
     flex-basis: 50%;
     background: hsl(179, 47%, 52%);
     padding: 2rem;  
+    border-bottom-right-radius: 4px;
+
 }
 
 .column2 h4{
