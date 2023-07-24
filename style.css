@@ -21,7 +21,7 @@ body{
 }
 
 main{
-    width: min(40%, 1440px);
+    width: min(50%, 1440px);
     margin-inline: auto;
     margin-top: clamp(4rem, 8rem, 30vh);
 }
